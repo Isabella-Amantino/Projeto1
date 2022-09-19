@@ -31,7 +31,7 @@ public class Suculenta extends Planta{
 		System.out.println("\nColoque sua planta em iluminação solar indireta diariamente!");
 	}
 	public void info() {
-		System.out.println("\n\t\\t-------------------------------------------------------------------------------------------------------------------------------------------------------\n");
+		System.out.println("\n\t\t-------------------------------------------------------------------------------------------------------------------------------------------------------\n");
 		System.out.println("\n\t\t\t\t\t\t\t\tDados gerais da sua planta: " + "\n\nEspécie: Suculenta \nRaíz: " + getRaiz() + "\nAspecto: "+ getAspecto() + "\nClima: " + getClima());
 	}
 		
